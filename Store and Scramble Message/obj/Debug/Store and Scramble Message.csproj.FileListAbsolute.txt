@@ -1,0 +1,14 @@
+c:\users\rachel\source\repos\Store and Scramble Message\Store and Scramble Message\obj\Debug\Store and Scramble Message.csprojResolveAssemblyReference.cache
+c:\users\rachel\source\repos\Store and Scramble Message\Store and Scramble Message\obj\Debug\Store and Scramble Message.csproj.CoreCompileInputs.cache
+c:\users\rachel\source\repos\Store and Scramble Message\Store and Scramble Message\bin\Debug\Store and Scramble Message.exe.config
+c:\users\rachel\source\repos\Store and Scramble Message\Store and Scramble Message\bin\Debug\Store and Scramble Message.exe
+c:\users\rachel\source\repos\Store and Scramble Message\Store and Scramble Message\bin\Debug\Store and Scramble Message.pdb
+c:\users\rachel\source\repos\Store and Scramble Message\Store and Scramble Message\obj\Debug\Store and Scramble Message.exe
+c:\users\rachel\source\repos\Store and Scramble Message\Store and Scramble Message\obj\Debug\Store and Scramble Message.pdb
+C:\Users\Rachel\source\repos\Week 2\Store and Scramble Message\Store and Scramble Message\bin\Debug\Store and Scramble Message.exe.config
+C:\Users\Rachel\source\repos\Week 2\Store and Scramble Message\Store and Scramble Message\bin\Debug\Store and Scramble Message.exe
+C:\Users\Rachel\source\repos\Week 2\Store and Scramble Message\Store and Scramble Message\bin\Debug\Store and Scramble Message.pdb
+C:\Users\Rachel\source\repos\Week 2\Store and Scramble Message\Store and Scramble Message\obj\Debug\Store and Scramble Message.csprojResolveAssemblyReference.cache
+C:\Users\Rachel\source\repos\Week 2\Store and Scramble Message\Store and Scramble Message\obj\Debug\Store and Scramble Message.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\source\repos\Week 2\Store and Scramble Message\Store and Scramble Message\obj\Debug\Store and Scramble Message.exe
+C:\Users\Rachel\source\repos\Week 2\Store and Scramble Message\Store and Scramble Message\obj\Debug\Store and Scramble Message.pdb
